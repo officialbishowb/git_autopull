@@ -5,7 +5,7 @@ This is a simple script that will automatically pull from a folder containing Gi
 ## Installation
 1. Clone this repository to a folder on your computer.
 2. Install the requirements with `pip install -r requirements.txt`.
-3. Create a file called `config.json` in the same folder as the script. This file should contain the path to the folder containing the repos or the repos themselves. The file should look like this:
+3. Create a file called `config.json` in the same folder as the script. This file should contain the path to the folder containing the repos or the repos themselves. It should look like this:
 ```json
 {
     "repositories_folder_path": "path/to/folder/containing/repos",
