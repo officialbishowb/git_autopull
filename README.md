@@ -15,11 +15,4 @@ This is a simple script that will automatically pull from a folder containing Gi
     
 }
 ```
-4. Run the script with `python3 main.py`. Or, if you want to run on schedule, do the following:
-    ### Windows
-    1. Create a shortcut to the script.
-    2. Open Task Scheduler and create a new task.
-    3. Set the trigger to run on a schedule.
-
-    ### Linux
-    1. Create a cron job to run the script on a startup.
+4. Run the script with `python3 main.py`. Or schedule it to run on a schedule.
